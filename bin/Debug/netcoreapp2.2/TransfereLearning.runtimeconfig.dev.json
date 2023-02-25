@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\roaas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\roaas\\.nuget\\packages"
+    ]
+  }
+}
