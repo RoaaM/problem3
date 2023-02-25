@@ -1,5 +1,7 @@
 # C# and Microsoft.ML library for ML tasks.
 
+you can run this code by download this repo and open it on visual studio.
+
 This project demonstrates how to use transfer learning to train an image classification model using the Inception v3 deep neural network architecture based on ImageNet weights.
 
 The code first loads image data and labels from a CSV file using the ML.NET library, and then defines an ML pipeline consisting of several data transformation steps and the LbfgsMaximumEntropy trainer for multi-class classification. The pipeline transforms the image data by resizing and preprocessing it, and then loads the pre-trained Inception v3 model to extract features from the images.
